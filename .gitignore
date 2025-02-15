@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+
+# Java (if using Spring Boot)
+target/
+*.log
+*.jar
+
+# React
+frontend/node_modules/
+frontend/.env
+
+# MySQL Data (Avoid uploading database files directly)
+database/
